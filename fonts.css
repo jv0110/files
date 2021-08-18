@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@font-face{
+  font-family: 'righteous';
+  src: url('../assets/fonts/Righteous/Righteous-Regular.ttf');
+}
+@font-face{
+  font-family: 'Druk';
+  src: url('../assets/fonts/Druk/Druk\ Wide\ Super.otf');
+}
+@font-face{
+  font-family: 'Druk';
+  src: url('../assets/fonts/__MACOSX/Druk/._Druk\ Wide\ Super.otf');
+}
